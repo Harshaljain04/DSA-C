@@ -2,7 +2,7 @@
 #include <stdio.h>  
 #include <stdlib.h>  
 #include <string.h>
-#define MAX 20  
+#define MAX 20 
   
 char stk[20];  
 int top = -1;  
